@@ -1,6 +1,6 @@
 name 'apache'
-maintainer 'RAKEN'
-maintainer_email 'rakentitus@gmail.com'
+maintainer 'TITUS TONY'
+maintainer_email 'titus.tony@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apache'
 long_description 'Installs/Configures apache'
