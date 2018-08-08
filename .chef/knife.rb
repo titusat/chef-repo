@@ -5,5 +5,5 @@ log_level                :info
 log_location             STDOUT
 node_name                "titusat"
 client_key               "#{current_dir}/titusat.pem"
-chef_server_url          "https://chef-workstation.c.chef-developer.internal/organizations/cheftraining"
+chef_server_url          "https://chef-server.c.chef-developer.internal/organizations/chefworld"
 cookbook_path            ["#{current_dir}/../cookbooks"]
